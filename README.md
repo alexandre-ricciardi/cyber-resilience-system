@@ -2,6 +2,8 @@
 
 This system aims to detect, and take appropriate actions upon cyber attacks.
 
+The system is also able to evaluate impact of an attack on IS, with a network map.
+
 Composed of network traffic probes on each node of the information system to measure inbound and oubound traffic.
 
 A timeline database to store the traffic of each node.
