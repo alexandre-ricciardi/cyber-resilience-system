@@ -4,10 +4,12 @@ This system aims to detect, and take appropriate actions upon cyber attacks.
 
 The system is also able to evaluate impact of an attack on IS, with a network map.
 
-Composed of network traffic probes on each node of the information system to measure inbound and oubound traffic.
+The system is composed of :
 
-A timeline database to store the traffic of each node.
+* Network traffic probes on each node of the information system to measure inbound and oubound traffic.
 
-Then a graph processing to compare network traffic schemes among different periods.
+* A timeline database to store the traffic of each node.
 
-AI can also process those graphs to detect delta and uncommon traffic during periods.
+* Then a graph processing to compare network traffic schemes among different periods.
+
+* AI can also process those graphs to detect delta and uncommon traffic during periods.
