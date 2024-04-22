@@ -11,6 +11,7 @@ The system is composed of :
 * A timeline database to store the traffic of each node.
 
 * Then a graph processing to compare network traffic schemes among different periods.
-** The main idea of the process if to integrate network traffic map in a graph across different timeframes
+  * The main idea of the process if to integrate network traffic map in a graph across different timeframes,
+  * The whole point is to determine relevant timeframes and threasholds for uncommon event detection
 
 * AI can also process those graphs to detect delta and uncommon traffic during periods.
