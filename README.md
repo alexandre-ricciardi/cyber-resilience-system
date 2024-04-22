@@ -16,3 +16,5 @@ The system is composed of :
 
 * AI can also process those graphs to detect delta and uncommon traffic during periods.
   * Graph representing net traffic across different periods are processed by an NN with convolution of graph (and not graphs embedding as usually processed)
+
+* Conclusion: net data is processed first by integrating it on different timeframes and then threashold detection is enhanced by graph AI analysis, this is an iterative process.
