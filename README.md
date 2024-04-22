@@ -15,3 +15,4 @@ The system is composed of :
   * The whole point is to determine relevant timeframes and threasholds for uncommon event detection
 
 * AI can also process those graphs to detect delta and uncommon traffic during periods.
+  * Graph representing net traffic across different periods are processed by an NN with convolution of graph (and not graphs embedding as usually processed)
